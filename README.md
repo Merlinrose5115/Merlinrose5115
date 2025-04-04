@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Merlinrose .A
 - 👀 I’m interested in programming language and coding 
 - 🌱 I’m currently learning about Data Structures and Algorithms 
-- 💞️ I’m looking to collaborate on java
 - 📫  reach me using my gmail account
-- 😄 Pronouns: ...
+- 😄 Pronouns:...
 - ⚡ Fun fact: Debugging Skills: 90% staring at the screen, 10% actual fixes.
 
 🎵 Coding Playlist: BTS songs on repeat!
